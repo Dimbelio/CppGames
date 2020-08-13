@@ -11,7 +11,7 @@ Libraries used:
 Modifications in code:
   * 2 more pieces introduced.
   * Bar showing your total score. 
-  * Bar showing your best score done over all. 
+  * Bar showing your best score over all. 
 
 
 Keys for playing:
