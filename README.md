@@ -3,6 +3,7 @@
 Game is based on Javier Lopez Guide.
 
 OS - Linux Ubuntu 18.04
+
 IDE - Visual Studio with CMake(g++ compiler used) and GNU debugger.
 
 Libraries used:
